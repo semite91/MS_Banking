@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "er3bxGf/lwxf9pCGa/5gtMnVBKPxnLNUMwJVgPqujcM=",
+  "Source": "FraudService",
+  "BasePath": "_content/FraudService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

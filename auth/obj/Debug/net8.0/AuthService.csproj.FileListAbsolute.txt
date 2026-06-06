@@ -1,0 +1,7 @@
+B:\Infinity\Education\Software\Projects\Banking\auth\obj\Debug\net8.0\AuthService.csproj.AssemblyReference.cache
+B:\Infinity\Education\Software\Projects\Banking\auth\obj\Debug\net8.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+B:\Infinity\Education\Software\Projects\Banking\auth\obj\Debug\net8.0\AuthService.AssemblyInfoInputs.cache
+B:\Infinity\Education\Software\Projects\Banking\auth\obj\Debug\net8.0\AuthService.AssemblyInfo.cs
+B:\Infinity\Education\Software\Projects\Banking\auth\obj\Debug\net8.0\AuthService.csproj.CoreCompileInputs.cache
+B:\Infinity\Education\Software\Projects\Banking\auth\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cs
+B:\Infinity\Education\Software\Projects\Banking\auth\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cache

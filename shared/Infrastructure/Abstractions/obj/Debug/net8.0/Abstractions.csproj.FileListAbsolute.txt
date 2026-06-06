@@ -1,0 +1,11 @@
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\bin\Debug\net8.0\Abstractions.deps.json
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\bin\Debug\net8.0\Abstractions.dll
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\bin\Debug\net8.0\Abstractions.pdb
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfoInputs.cache
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfo.cs
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\Abstractions.csproj.CoreCompileInputs.cache
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\Abstractions.dll
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\refint\Abstractions.dll
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\Abstractions.pdb
+B:\Infinity\Education\Software\Projects\Banking\shared\Infrastructure\Abstractions\obj\Debug\net8.0\ref\Abstractions.dll
